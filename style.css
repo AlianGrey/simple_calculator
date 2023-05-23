@@ -1,0 +1,14 @@
+.container {
+    margin: 50px auto 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    row-gap: 5px;
+    max-width: 300px;
+}
+
+#result {
+    font-weight: 900;
+    font-size: 1.5em;
+}
